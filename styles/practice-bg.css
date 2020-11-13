@@ -1,0 +1,9 @@
+.container {
+    width: 50%;
+    height: 80vh;
+    border: 2px solid black;
+    margin: 50px auto;
+    background-image: url(../images/bag.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
